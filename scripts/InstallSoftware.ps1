@@ -10,8 +10,6 @@ Function LogWrite
 }
 
 try {
-abc
-
 $tempFilePath='C:\temp\temp.zip'
 $downloadFolder='C:\temp\downloadfolder'
 
